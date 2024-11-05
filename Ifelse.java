@@ -3,7 +3,7 @@ public class Ifelse {
      int num1=20;
      int num2= 5;
      // 1
-     
+     //output
      if(num1==num2)
      {
         System.out.println(" num2 and num2 are equal ");
